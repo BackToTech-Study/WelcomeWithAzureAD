@@ -472,3 +472,13 @@ Click on the name of the frontend application `WelkomeAzureAD` to show the confi
 
 * Not present in this example: You could protect cerain application routes by using the `MSAL_GUARD_CONFIG`: https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code#guarding-routes
 * Preaprove front end applications: https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-expose-web-apis#add-a-scope
+
+## Information and code sources:
+
+* https://github.com/Azure-Samples/ms-identity-javascript-angular-tutorial
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-access-web-apis
+* https://docs.microsoft.com/en-us/azure/active-directory-b2c/enable-authentication-angular-spa-app
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code
+* https://docs.microsoft.com/en-us/azure/active-directory/develop/scenario-protected-web-api-verification-scope-app-roles?tabs=aspnetcore
