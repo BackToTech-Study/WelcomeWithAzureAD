@@ -470,6 +470,7 @@ Click on the name of the frontend application `WelkomeAzureAD` to show the confi
 
 ## TO BE ADDED
 
+* Asign user roles and implement role based authorization.
 * Not present in this example: You could protect cerain application routes by using the `MSAL_GUARD_CONFIG`: https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-angular-auth-code#guarding-routes
 * Preaprove front end applications: https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-configure-app-expose-web-apis#add-a-scope
 
